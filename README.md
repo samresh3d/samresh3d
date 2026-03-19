@@ -39,7 +39,7 @@ Beyond titles, I’m a **curious builder and continuous learner** focused on cre
 ## 📜 Certifications
 
 - 🏅 AWS Cloud Quest – Cloud Practitioner  
-- 🏅 AWS Cloud Quest – Solutions Architect (In Progress)  
+- 🏅 AWS Cloud Quest – Solutions Architect 
 - 📘 Backend & System Design Courses  
 - 🎓 Continuous upskilling via Udemy  
 
