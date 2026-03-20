@@ -55,7 +55,9 @@ Beyond titles, I’m a **curious builder and continuous learner** focused on cre
 <a href="https://aws.amazon.com/cognito"><img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Cognito.svg" height="40"/></a>
 <a href="https://aws.amazon.com/appsync"><img src="https://icon.icepanel.io/AWS/svg/App-Integration/AppSync.svg" height="40"/></a>
 <a href="https://aws.amazon.com/fargate"><img src="https://icon.icepanel.io/AWS/svg/Compute/Fargate.svg" height="40"/></a>
-<a href="https://aws.amazon.com/ecs"><img src="https://icon.icepanel.io/AWS/svg/Compute/Elastic-Container-Service.svg" height="40"/></a>
+<a href="https://aws.amazon.com/ecs">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="40"/>
+</a>
 <a href="https://aws.amazon.com/elasticbeanstalk"><img src="https://icon.icepanel.io/AWS/svg/Compute/Elastic-Beanstalk.svg" height="40"/></a>
 <a href="https://aws.amazon.com/dynamodb/"><img src="https://icon.icepanel.io/AWS/svg/Database/DynamoDB.svg" height="40"/></a>
 <a href="https://aws.amazon.com/s3"><img src="https://icon.icepanel.io/AWS/svg/Storage/Simple-Storage-Service.svg" height="40"/></a>
